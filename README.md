@@ -1,4 +1,4 @@
-# Portafolio# Portafolio de Aram Barsegyan
+# Portafolio de Aram Barsegyan
 
 Bienvenido a mi portafolio de proyectos. Soy Aram Barsegyan, estudiante de Ingeniería en Tecnologías Computacionales en el Tecnológico de Monterrey. Tengo una fuerte pasión por crear soluciones tecnológicas útiles, funcionales y fáciles de entender. Disfruto especialmente desarrollar herramientas que conecten con las personas, tanto a nivel técnico como visual, siempre con un enfoque en la experiencia del usuario.
 
