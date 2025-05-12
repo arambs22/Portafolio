@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-font",
+      "expo-router",
+      "expo-camera"
+    ],
+    "name": "Bank-IO",
+    "slug": "bank-io",
+    "extra": {
+      "eas": {
+        "projectId": "9e8115b0-05a9-407b-8857-bb34d0389a90"
+      }
+    },
+    "owner": "pyfher"
+  }
+}
